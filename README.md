@@ -1,2 +1,2 @@
-# Geometry-Dash-Private-Server
-I'm working on it...
+# The Quantum gdps
+After a lot of trial and error, i'm happy to finally present The Quantum gdps!
